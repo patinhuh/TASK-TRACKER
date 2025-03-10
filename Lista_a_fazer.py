@@ -192,5 +192,5 @@ while True:
          break
 
 ##################################################################
-
+# Salvar dados ao sair
 atexit.register(salvar_dados)
